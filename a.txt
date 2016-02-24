@@ -8,4 +8,4 @@ dev update 01
 test update 01
 dev update 02
 github server update 01
-fire fix the bug
+fire fix the bug 02
